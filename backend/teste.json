@@ -1,0 +1,100 @@
+{
+    "categorias":[
+        {
+            "nome": "a",
+            "sub_categorias":[
+                {
+                    "nome": "desktop",
+                    "marca_e_modelo":[
+                        {
+                            "marca":[
+                                {
+                                    "nome": "Asus",
+                                    "modelo": [
+                                        "Zenbook",
+                                        "Not Zenbook",
+                                        "ETC"
+                                    ]
+                                },
+                                {
+                                    "nome": "DELL",
+                                    "modelo": [
+                                        "x",
+                                        "y",
+                                        "z"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "fisicas":
+                    {
+                        "peso":[
+                            "< 1.5 Kg",
+                            "1.5 Kg - 2 Kg",
+                            "> 2Kg"
+                        ]
+                    },
+                    "sistema_operativo":
+                    {
+                        "sistema_operativo":[
+                            "Windows",
+                            "Mac",
+                            "Linux"
+                        ]
+                    },
+                    "placa_grafica":
+                    {
+                        "grafica": [
+                            "NVIDIA",
+                            "GTX"
+                        ],
+                        "memoria-GPU": [
+                            "2GB",
+                            "4GB",
+                            "8GB",
+                            "16GB"
+                        ]
+                    },
+                    "processador":{
+                        "cpu":[
+                            "cpa",
+                            "cpu",
+                            "cpo"
+                        ],
+                        "velocidade":[
+                            "1 GHz - 2 GHz",
+                            "2 GHz - 3 GHz"
+                        ],
+                        "nr_de_nucleos":[
+                            "Quad Core",
+                            "Dual Core"
+                        ]
+                    },
+                    "armazenamento":{
+                        "tipo":[
+                            "1",
+                            "2",
+                            "3"
+                        ],
+                        "tamanho":[
+                            "1GB",
+                            "2GB",
+                            "3GB"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+
+}
+
+
+
+
+
+
+
+
+

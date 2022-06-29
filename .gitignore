@@ -1,0 +1,4 @@
+backend/package.json
+backend/node_modules
+backend/config.js
+/node_modules

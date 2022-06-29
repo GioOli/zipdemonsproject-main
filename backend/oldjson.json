@@ -1,0 +1,70 @@
+{
+    "Category": [
+        "a",
+        "b",
+        "c"
+    ],
+    "a": [
+        "desktop",
+        "portatil"
+    ],
+    "desktop": {
+        "Marca": [
+            "Asus",
+            "Lenovo",
+            "Microsoft"
+        ],
+        "Modelo": [
+            "L430H",
+            "Predator 11",
+            "X-PRO",
+            "XPTO"
+        ],
+        "Fisicas": {
+            "Cor": [
+                "Preto",
+                "Branco",
+                "Cinzento"
+            ],
+            "Peso": [
+                "< 1.5 Kg",
+                "1.5 Kg - 2 Kg",
+                "> 2Kg"
+            ],
+            "Altura": [
+                "10 cm - 15 cm",
+                "15 cm - 20 cm"
+            ],
+            "Largura": [
+                "10 cm - 15 cm",
+                "15 cm - 20 cm"
+            ],
+            "Profundidade": [
+                "10 cm - 15 cm",
+                "15 cm - 20 cm"
+            ]
+        },
+        "Sistema Operativo": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "Placa Gráfica": {
+            "Gráfica": [
+                "NVIDIA",
+                "GTX"
+            ],
+            "Memoria-GPU": [
+                "2GB",
+                "4GB",
+                "8GB",
+                "16GB"
+            ]
+        }
+    },
+    "portatil": {},
+    "b": [
+        "dados a",
+        "dados b"
+    ]
+}
